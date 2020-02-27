@@ -13,7 +13,7 @@ permalink: /
 38 years old  
 +7 (984) 3330950 ([whatsapp](https://wa.me/79843330950))  
 [me@nickvorobiov.com](mailto:me@nickvorobiov.com)  
-Skype: [nickvorobiov](skype://nickvorobiov?chat)
+Skype: [nickvorobiov](skype:nickvorobiov?chat)
 
 Ready to relocate to Europe, USA, Canada, Australia. Ready to do business trips worldwide.
 
