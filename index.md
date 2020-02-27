@@ -114,6 +114,7 @@ Moscow, March 2006 — November 2010
 - Brought the company to the new city – Moscow
 - Established partnership with administration of health departments of 5 okrugs of Moscow
 - Captured 25% of the Moscow polyclinic market with a product for human resources automation
+- Increased company's sales 4x in 100 days
 
 ## **Dasoft** – Sales Team Leader
 
