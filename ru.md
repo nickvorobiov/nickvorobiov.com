@@ -13,7 +13,7 @@ permalink: /ru/
 38 лет  
 +7 (984) 3330950 ([whatsapp](https://wa.me/79843330950))  
 [me@nickvorobiov.com](mailto:me@nickvorobiov.com)  
-Skype: [nickvorobiov](skype://nickvorobiov?chat)
+Skype: [nickvorobiov](skype:nickvorobiov?chat)
 
 График работы: удаленная работа или переезд в европу, США, Канаду, Австралию.
 
