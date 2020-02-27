@@ -3,6 +3,8 @@ title: Nick Vorobiov
 permalink: /
 ---
 
+🇬🇧English | [🇷🇺По-русски](/ru/)
+
 # Nick Vorobiov
 ## Head of Sales / Business Development
 
