@@ -138,7 +138,7 @@ Saint Petersburg, June 2004 — March 2006
 
 ## **Dasoft** – Sales Representative
 
-Saint Petersburg, Июнь 2001 — Декабрь 2004
+Saint Petersburg, June 2001 — December 2004
 
 ### Responsibilities
 
