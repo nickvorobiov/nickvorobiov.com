@@ -24,6 +24,7 @@ I will make your business much more profitable by building a successful digital 
 ## What have I achieved so far
 
 - Captured 25% of the Moscow polyclinic market with an IT product for human resources automation
+- Increased company's sales 4x in 100 days
 - Brought the company to the international market – Ukraine, Germany, Czech Republic
 - Opened 6 regional and 3 international branches, found partners in 24 cities
 - Created 4 remote telesales departments of 5+ people from scratch, one remote digital marketing department of 20 people
