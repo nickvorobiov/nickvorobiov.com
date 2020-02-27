@@ -6,7 +6,7 @@ permalink: /
 🇬🇧English | [🇷🇺По-русски](/ru/)
 
 # Nick Vorobiov
-## Head of Sales / Business Development
+## Head of Sales & Marketing / Business Development
 
 10+ years of experience in building sales teams & marketing departments from scratch, increasing efficiency of existing ones, standardizing & expanding them, bringing companies to new international markets and increasing revenues & profits.
 
