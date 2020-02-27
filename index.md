@@ -8,6 +8,8 @@ permalink: /
 # Nick Vorobiov
 ## Head of Sales & Marketing / Business Development
 
+<img src="/smiling-square-512px.jpg" width="256">
+
 10+ years of experience in building sales teams & marketing departments from scratch, increasing efficiency of existing ones, standardizing & expanding them, bringing companies to new international markets and increasing revenues & profits.
 
 38 years old  
@@ -43,21 +45,21 @@ I will make your business much more profitable by building a successful digital 
 
 Remote Job, September 2016 — now
 
-Sales-related responsibilities:
+### Sales-related responsibilities
 
 - Managing and leading the sales department of about 5 people – daily meetings, motivating and supporting sales managers, supervising personal KPIs, helping managers to close important & complex deals
 - Hiring & onboarding new managers – interviewing, selecting, making final decision to hire, teaching of product & sales script, listening to calls to assure quality
 - Personal sales to key customers
 - Developing sales scripts
 
-Achievements:
+### Achievements
 
 - Created a remote telesales department of 5 people from scratch
 - Created sales scripts, work standards & guidelines, sales manager candidates selection system, and sales manager candidate onboarding system
 - Implemented a sales analytics system to track and compare individual results of each manager and CAC of each traffic source
 - Closed 300 deals with key partners
 
-Marketing-related responsibilities:
+### Marketing-related responsibilities
 
 - Developing and launching new products and existing products to new markets – researched markets, developed customer avatars, USPs & offers, designed automated sales funnels
 - Creating presentational videos
@@ -65,7 +67,7 @@ Marketing-related responsibilities:
 - Hiring digital marketing specialists – created job opening texts and professional tests, interviewed and tested candidates
 - Leading and managing a remote team — digital marketers, copywriters, Facebook ad campaign specialists, SMM specialists, designers, web developers
 
-Achievements:
+### Achievements
 
 - Created a remote digital marketing department of 20 people
 - Implemented an end-to-end analytics system and decreased CAC by 50%
@@ -81,14 +83,14 @@ Achievements:
 
 Saint Petersburg, December 2009 — October 2016
 
-Responsibilities:
+### Responsibilities
 
 - Finding, negotiating and signing contracts with regional event organisers to host our seminars
 - Finding, hiring, onboarding and leading regional branch directors
 - Presenting and selling services on webinars, offline seminars, in videos
 - Hiring, onboarding and leading sales managers
 
-Achievements:
+### Achievements
 
 - Opened 6 regional branches
 - Found partners in 24 cities who hosted company's seminars
@@ -99,13 +101,13 @@ Achievements:
 
 Moscow, March 2006 — November 2010
 
-Responsibilities:
+### Responsibilities
 
 - Finding prospects – B2B cold search, cold calling
 - Phone and personal negotiations
 - Hiring, onboarding and managing sales team
 
-Achievements:
+### Achievements
 
 - Created a telesales department of 7 managers
 - Developed sales scripts
@@ -117,7 +119,7 @@ Achievements:
 
 Saint Petersburg, June 2004 — March 2006
 
-Responsibilities:
+### Responsibilities
 
 - Hiring, onboarding and managing sales team
 - Identifying customer needs and preparing terms of reference for software developers
@@ -126,7 +128,7 @@ Responsibilities:
 - Finding prospects – B2B cold search, cold calling
 - Phone and personal negotiations
 
-Achievements:
+### Achievements
 
 - Developed rules of operation for sales managers
 - Got rid of the company's ties to the same market and star managers, hired new managers
@@ -136,13 +138,13 @@ Achievements:
 
 Saint Petersburg, Июнь 2001 — Декабрь 2004
 
-Responsibilities:
+### Responsibilities
 
 - Finding prospects – B2B cold search, cold calling
 - Phone and personal negotiations
 - Personal product presentations, negotiations, signing contracts
 
-Achievements:
+### Achievements
 
 - Showed the best conversion in the department - 26%.
 - Repeatedly showed the best result in the number of closed transactions in the department for the month
