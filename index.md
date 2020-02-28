@@ -153,11 +153,11 @@ Saint Petersburg, June 2001 — December 2004
 
 # Education
 
-Master of Commercial logistics '2005, St. Petersburg State University of Economics and Finance, Faculty of Commerce and Marketing
+Master of Commercial logistics '2005, St. Petersburg State University of Economics and Finance, Russia, Faculty of Commerce and Marketing
 
-1 year study '2000 in Technische Universität München, Financial and business mathematics
+1 year study '2000 in Technical University of Munich, Germany, Financial and business mathematics
 
-Master of Neuro-Linguistic Programming '2004, Moscow NLP Centre
+Master of Neuro-Linguistic Programming '2004, Moscow NLP Centre, Russia
 
 ## Languages
 
