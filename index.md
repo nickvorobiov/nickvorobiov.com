@@ -37,7 +37,7 @@ I will make your business much more profitable by building a successful digital 
 ## Experienced in
 
 - managing sales departments up to 70 salespersons
-- personal B2B sales up to $1.8M
+- personal B2B sales up to $100&thinsp;000
 - giving sales pitch live to 1200 participants, online up to 500 participants
 
 ## What can I do for you
