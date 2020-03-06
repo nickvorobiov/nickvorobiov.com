@@ -34,6 +34,12 @@ I will make your business much more profitable by building a successful digital 
 - Implemented a sales analytics system to track and compare individual results of each manager and CAC of each traffic source, which decreased CAC by 50%
 - Hosted 3 TV reality shows, 100+ live events
 
+## Experienced in
+
+- managing sales departments up to 70 salespersons
+- personal B2B sales up to $1.8M
+- giving sales pitch live to 1200 participants, online up to 500 participants
+
 ## What can I do for you
 
 - increase the efficiency of sales and marketing departments by means of a systematic approach - implementation of a system of end-to-end analytics, CRM, regulations, sales and marketing plans, quality control system
