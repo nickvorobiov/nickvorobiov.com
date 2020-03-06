@@ -165,6 +165,8 @@ Master of Commercial logistics '2005, St. Petersburg State University of Economi
 
 Master of Neuro-Linguistic Programming '2004, Moscow NLP Centre, Russia
 
+Microsoft Certified Systems Engineer (MCSE) '2001, Microsoft
+
 ## Languages
 
 - Russian — Native
