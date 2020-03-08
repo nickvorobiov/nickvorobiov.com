@@ -104,7 +104,7 @@ Saint Petersburg, December 2009 — October 2016
 - Brought the company to the international market – Ukraine, Germany, Czech Republic
 - Raised sales 120% in a year
 
-## **Dasoft** – Regional Sales Director
+## **Dasoft** – Regional Director
 
 Moscow, March 2006 — November 2010
 
