@@ -113,6 +113,9 @@ Moscow, March 2006 — November 2010
 - Finding prospects – B2B cold search, cold calling
 - Phone and personal negotiations
 - Hiring, onboarding and managing sales team
+- 3 years of experience in managing an IT team
+- 5 years of experience in building effective business processes
+- 10+ years of experience in building partnerships, PR, and sales development
 
 ### Achievements
 
