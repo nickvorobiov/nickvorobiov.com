@@ -14,6 +14,7 @@ permalink: /
 
 38 years old  
 +380637645668 ([whatsapp](https://wa.me/380637645668))  
+[https://www.linkedin.com/in/nickvorobiov](https://www.linkedin.com/in/nickvorobiov)  
 [me@nickvorobiov.com](mailto:me@nickvorobiov.com)  
 Skype: [nickvorobiov](skype:nickvorobiov?chat)
 
