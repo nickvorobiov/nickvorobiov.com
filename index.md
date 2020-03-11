@@ -13,7 +13,7 @@ permalink: /
 10+ years of experience in building sales teams & marketing departments from scratch, increasing efficiency of existing ones, standardizing & expanding them, bringing companies to new international markets and increasing revenues & profits.
 
 38 years old  
-+7 (984) 3330950 ([whatsapp](https://wa.me/79843330950))  
++380637645668 ([whatsapp](https://wa.me/380637645668))  
 [me@nickvorobiov.com](mailto:me@nickvorobiov.com)  
 Skype: [nickvorobiov](skype:nickvorobiov?chat)
 
