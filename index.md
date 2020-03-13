@@ -6,7 +6,7 @@ permalink: /
 🇬🇧English | [🇷🇺По-русски](/ru/)
 
 # Nick Vorobiov
-## Head of Sales, Marketing & Business Development
+## Head of Sales
 
 <img src="/smiling-square-512px.jpg" width="256">
 
