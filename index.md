@@ -167,7 +167,7 @@ Master of Commercial logistics '2005, St. Petersburg State University of Economi
 
 1 year study '2000 in Technical University of Munich, Germany, Financial and business mathematics
 
-## Certifications
+## Certifications and courses
 
 - Sales as a system '2019, BM Institute
 - Master of Neuro-Linguistic Programming '2004, Moscow NLP Centre
