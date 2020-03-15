@@ -169,6 +169,7 @@ Master of Commercial logistics '2005, St. Petersburg State University of Economi
 
 ## Certifications
 
+- Sales as a system '2019, BM Institute
 - Master of Neuro-Linguistic Programming '2004, Moscow NLP Centre
 - Microsoft Certified Systems Engineer (MCSE) '2001, Microsoft
 
