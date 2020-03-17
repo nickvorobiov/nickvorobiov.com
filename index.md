@@ -22,6 +22,21 @@ Ready to relocate to Europe, USA, Canada, Australia. Ready to do business trips 
 
 I will make your business much more profitable by building a successful digital marketing and sales systems
 
+## What can I do for you
+
+- build a sales department from scratch - start selling the product by myself, come up with a sales funnel and test it, develop phone sales scripts and a commercial offer, quickly and efficiently select, train and motivate sales managers
+- increase the efficiency of sales and marketing departments by means of a systematic approach - implementation of a system of end-to-end analytics, CRM, regulations, sales and marketing plans, quality control system
+- build or systematize the marketing of the company - define and segment the target audience, make the trade offer clear and understandable, develop selling theses, introduce new marketing tools, quickly launch online advertising campaigns 
+
+## Experienced in
+
+- managing sales departments up to 70 salespersons
+- personal B2B sales up to $100&thinsp;000
+- giving sales pitch live to 1200 participants, online up to 500 participants
+- 3 years of experience in managing an IT team
+- 5 years of experience in building effective business processes
+- 10+ years of experience in building partnerships, PR, and sales development
+
 ## What have I achieved so far
 
 - Captured 25% of the Moscow polyclinic market with an IT product for human resources automation
@@ -34,21 +49,6 @@ I will make your business much more profitable by building a successful digital 
 - Developed standards & guidelines for digital marketers, Facebook ad campaign specialists, copywriters, web developers, SMM specialists
 - Implemented a sales analytics system to track and compare individual results of each manager and CAC of each traffic source, which decreased CAC by 50%
 - Hosted 3 TV reality shows, 100+ live events
-
-## Experienced in
-
-- managing sales departments up to 70 salespersons
-- personal B2B sales up to $100&thinsp;000
-- giving sales pitch live to 1200 participants, online up to 500 participants
-- 3 years of experience in managing an IT team
-- 5 years of experience in building effective business processes
-- 10+ years of experience in building partnerships, PR, and sales development
-
-## What can I do for you
-
-- increase the efficiency of sales and marketing departments by means of a systematic approach - implementation of a system of end-to-end analytics, CRM, regulations, sales and marketing plans, quality control system
-- build a remote sales department from scratch - quickly and efficiently select, train and motivate sales managers
-- build or systematize the marketing of the company - define and segment the target audience, make the trade offer clear and understandable, develop selling theses, introduce new marketing tools, quickly launch online advertising campaigns 
 
 # Work Experience
 
