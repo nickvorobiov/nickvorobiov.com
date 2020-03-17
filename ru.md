@@ -18,7 +18,7 @@ permalink: /ru/
 [me@nickvorobiov.com](mailto:me@nickvorobiov.com)  
 Skype: [nickvorobiov](skype:nickvorobiov?chat)
 
-График работы: удаленная работа или переезд в европу, США, Канаду, Австралию.
+Готов к переезду в европу, США, Канаду, Австралию.
 
 Готов к командировкам по всему миру.  
 
