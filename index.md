@@ -3,7 +3,7 @@ title: Nick Vorobiov
 permalink: /
 ---
 
-🇬🇧English | [🇷🇺По-русски](/ru/)
+🇬🇧English | [🇺🇦Українською](/ua/) | [🇷🇺По-русски](/ru/)
 
 # Nick Vorobiov
 ## Head of Sales, Marketing & Business Development
