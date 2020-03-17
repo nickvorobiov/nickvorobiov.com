@@ -176,7 +176,9 @@ Master of Commercial logistics '2005, St. Petersburg State University of Economi
 ## Languages
 
 - Russian — Native
-- English — C2 — Proficiency
+- English — Proficiency
+- German – Good
+- Ukrainian - Good
 
 # Hard Skills
 
