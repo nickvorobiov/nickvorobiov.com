@@ -187,22 +187,40 @@ Master of Commercial logistics '2005, St. Petersburg State University of Economi
 - B2B Marketing
 - B2B Sales
 - Business Consulting
+- Business Development
+- Business Process
+- Business Relationship Building
+- Business Strategy
+- Business-to-Business (B2B)
+- Coaching
 - Cold Calling
 - Corporate Sales & Business Development in B2B
+- Cross-functional Team Leadership
 - Decision Making
 - Design Standards and Guidelines
+- Development Strategy
+- Digital Marketing
 - Direct Sales
 - Documentation
 - Education and Development
 - English Language
+- Entrepreneurship
 - Facebook
+- High degree of initiative
 - Human Resources
 - Individual Training
 - International Business
+- International Markets
 - International Sales
+- Interpersonal Communication
+- Interpersonal Skills
+- Leadership
 - Management Skills
 - Managing and Motivating Teams
+- Marketing
+- Marketing Campaigns
 - Marketing Management
+- Marketing Strategy
 - Negotiation
 - Organization of Seminars
 - Organizational Skills
@@ -212,21 +230,29 @@ Master of Commercial logistics '2005, St. Petersburg State University of Economi
 - Process Standardization
 - Producing a Presentation
 - Public Speaking
+- Relocation
 - Remote Team Management
 - Remote Working
 - Results Orientation
 - Revenue and Profit Growth
 - Russian Language
 - Sales
+- Sales & Marketing Leadership
 - Sales Analytics
 - Sales Development
+- Sales Growth
 - Sales Management
 - Sales Planning
+- Sales Process Implementation
 - Sales Skills
+- Sales Strategy
 - Search and Customer Acquisition
 - Social Marketing
+- Social Media
 - Social Media Marketing
 - Staff Recruitment
+- Strategic Planning
+- Team Leadership
 - Team Management
 - Telephone Calls
 - Training
