@@ -22,13 +22,23 @@ Ready to relocate to Europe, USA, Canada, Australia. Ready to do business trips 
 
 I will make your business much more profitable by building a successful digital marketing and sales systems
 
-## What can I do for you
+## Skills
 
 - build a sales department from scratch - start selling the product by myself, come up with a sales funnel and test it, develop phone sales scripts and a commercial offer, quickly and efficiently select, train and motivate sales managers
 - increase the efficiency of sales and marketing departments by means of a systematic approach - implementation of a system of end-to-end analytics, CRM, regulations, sales and marketing plans, quality control system
 - build or systematize the marketing of the company - define and segment the target audience, make the trade offer clear and understandable, develop selling theses, introduce new marketing tools, quickly launch online advertising campaigns 
 
-## Experienced in
+## IT Skills
+
+- Developing & selling SaaS
+- Programming – JavaScript, Node.JS, React, Vue, SQL, MySQL, HTML, CSS, PHP, Symfony, Perl
+- Developing APIs & Integrations for Trello, Slack, AmoCRM, Pipedrive, Telegram Chatbots, Chatfuel, Facebook Marketing API, Activecampaign, Mailchimp, Mailgun, WayForPay, Interkassa, Robokassa, Yandex.Kassa, Zadarma, Google Spreadsheets, Zapier, SMS, SMTP, Roistat, Google Analytics, Airtable
+- Marketing Automation, Webhooks, REST
+- Mobile Development – PhoneGap, Cordova
+- System Administration – Linux, Apache, Nginx, Bash
+- Using GitHub, Bitbucket, Confluence
+
+## Experience
 
 - managing sales departments up to 70 salespersons
 - personal B2B sales up to $100&thinsp;000
@@ -37,7 +47,7 @@ I will make your business much more profitable by building a successful digital 
 - 5 years of experience in building effective business processes
 - 10+ years of experience in building partnerships, PR, and sales development
 
-## What have I achieved so far
+## Achievements
 
 - Captured 25% of the Moscow polyclinic market with an IT product for human resources automation
 - Increased company's sales 4x in 100 days
