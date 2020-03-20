@@ -31,7 +31,7 @@ Skype: [nickvorobiov](skype:nickvorobiov?chat)
 - выстроить или систематизировать маркетинг компании — определить и сегментировать целевую аудиторию, сделать торговое предложение четким и понятным, выработать продающие тезисы, внедрить новые маркетинговые инструменты, быстро запустить рекламные кампании в онлайн
 - вывести бизнес на иностранный рынок
 
-## Навыки в IT
+## IT навыки
 
 `SaaS` `Requirements Analysis` `Digital Marketing` `APIs & Integrations` `Webhooks` `REST` `JavaScript` `Node.JS` `React` `Vue` `SQL` `MySQL` `HTML` `CSS` `PHP` `Symfony` `Perl` `GitHub` `Bitbucket` `Confluence` `Marketing Automation` `Linux` `Apache` `Nginx` `Bash`
 
