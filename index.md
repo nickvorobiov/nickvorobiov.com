@@ -30,7 +30,7 @@ I will make your business much more profitable by building a successful digital 
 
 ## IT Skills
 
-`SaaS` `APIs & Integrations` `Webhooks` `REST` `JavaScript` `Node.JS` `React` `Vue` `SQL` `MySQL` `HTML` `CSS` `PHP` `Symfony` `Perl` `GitHub` `Bitbucket` `Confluence` `Marketing Automation` `Linux` `Apache` `Nginx` `Bash`
+`SaaS` `Requirements Analysis` `Digital Marketing` `APIs & Integrations` `Webhooks` `REST` `JavaScript` `Node.JS` `React` `Vue` `SQL` `MySQL` `HTML` `CSS` `PHP` `Symfony` `Perl` `GitHub` `Bitbucket` `Confluence` `Marketing Automation` `Linux` `Apache` `Nginx` `Bash`
 
 ## Experience
 
