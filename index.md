@@ -30,13 +30,7 @@ I will make your business much more profitable by building a successful digital 
 
 ## IT Skills
 
-- Developing & selling SaaS
-- Programming – JavaScript, Node.JS, React, Vue, SQL, MySQL, HTML, CSS, PHP, Symfony, Perl
-- Developing APIs & Integrations for Trello, Slack, AmoCRM, Pipedrive, Telegram Chatbots, Chatfuel, Facebook Marketing API, Activecampaign, Mailchimp, Mailgun, WayForPay, Interkassa, Robokassa, Yandex.Kassa, Zadarma, Google Spreadsheets, Zapier, SMS, SMTP, Roistat, Google Analytics, Airtable
-- Marketing Automation, Webhooks, REST
-- Mobile Development – PhoneGap, Cordova
-- System Administration – Linux, Apache, Nginx, Bash
-- Using GitHub, Bitbucket, Confluence
+`SaaS`, `JavaScript`, `Node.JS`, `React`, `Vue`, `SQL`, `MySQL`, `HTML`, `CSS`, `PHP`, `Symfony`, `Perl`, `GitHub`, `Bitbucket`, `Confluence`, `Marketing Automation`, `Webhooks`, `REST`, `APIs & Integrations`, `Linux`, `Apache`, `Nginx`, `Bash`
 
 ## Experience
 
