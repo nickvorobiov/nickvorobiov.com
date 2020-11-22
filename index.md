@@ -1,6 +1,4 @@
----
-title: Nick Vorobiov CV
-permalink: /
----
-
-[CV in English](/nickvorobiov.pdf) | [Резюме по-русски](/nickvorobiov-ru.pdf)
+<!DOCTYPE html>
+<meta charset="utf-8">
+<meta http-equiv="refresh" content="0; URL=https://www.linkedin.com/in/nickvorobiov/">
+<link rel="canonical" href="https://www.linkedin.com/in/nickvorobiov/">
